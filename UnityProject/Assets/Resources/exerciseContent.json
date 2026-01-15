@@ -1,0 +1,232 @@
+[
+    {
+        "exerciseName": "수동 외회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "외회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "index":"1-10",
+        "category":"좌우측 구분 운동",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "진자 어깨 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "승모근 강화 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "견갑골 설정 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "견갑골 수축 및 확장 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "Bent-over horizontal abduction",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "내부 및 외부 회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "덤벨을 이용한 외부 회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "덤벨을 이용한 내부 회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "막대기를 이용한 상하 내부 및 외부 회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "막대기를 이용한 내부 및 외부 회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "막대기를 이용한 후방 내부 및 외부 회전 운동",
+        "type": "Shoulder",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "크로스오버 팔 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "앉은 상태에서 가슴 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "앉은 상태에서 회전 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "무릎 및 몸통 회전 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "바닥에서 가슴 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "앉은 상태에서 햄스트링 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "seated pretzel",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "햄스트링 컬",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "종아리 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "대퇴사두근 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "고관절 굴곡근 스트레칭1",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "고관절 굴곡근 스트레칭2",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "무릎-가슴 스트레칭",
+        "type": "Stretching",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "베게 위에 눕기",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "팔꿈치로 엎드리기",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "중립 자세",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "누운 자세에서 복부 당기기",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "컬업 복부 운동",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "팔 slide and 뻗기",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "고양이-개 운동",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "골반 브릿지",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "척추 브릿지",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "다이나믹 데드 버그",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "일반 데드 버그",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    },
+    {
+        "exerciseName": "사지 대각선 팔다리 운동",
+        "type": "Core",
+        "supplies": "None",
+        "repeatNum": 1
+    }
+]

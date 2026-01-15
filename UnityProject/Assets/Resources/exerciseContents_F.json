@@ -1,0 +1,89 @@
+[
+  {
+    "id": "1_6",
+    "exerciseName": "슬리퍼스트레치 운동",
+    "type": "운동 프로토콜",
+    "supplies": "요가매트",
+    "repeatNum": 3,
+    "alternatingSides": "true",
+    "preparesec": 15,
+    "restsec": 30,
+    "Num":8
+  },
+  {
+    "id": "1_9",
+    "exerciseName": "내회전 운동",
+    "type": "운동 프로토콜",
+    "supplies": "탄력밴드",
+    "repeatNum": 3,
+    "alternatingSides": "true",
+    "preparesec": 10,
+    "restsec": 60,
+    "Num":16
+  },
+  {
+    "id": "1_10",
+    "exerciseName": "외회전 운동",
+    "type": "운동 프로토콜",
+    "supplies": "탄력밴드",
+    "repeatNum": 3,
+    "alternatingSides": "true",
+    "preparesec": 10,
+    "restsec": 30,
+    "Num": 16
+  },
+  {
+    "id": "1_18",
+    "exerciseName": "측와위외회전 운동",
+    "type": "운동 프로토콜",
+    "supplies": "덤벨, 요가매트",
+    "repeatNum": 2,
+    "alternatingSides": "true",
+    "preparesec": 15,
+    "restsec": 30,
+    "Num":20
+  },
+  {
+    "id": "2_8",
+    "exerciseName": "서서 덤벨을 들고 어깨 굴곡 운동",
+    "type": "자가보조",
+    "supplies": "덤벨",
+    "repeatNum": null,
+    "alternatingSides": "true",
+    "preparesec": 10,
+    "restsec": 30
+  },
+  {
+    "id": "3_3",
+    "exerciseName": "수동 외회전 운동",
+    "type": "회전근개",
+    "supplies": "봉",
+    "repeatNum": 4,
+    "alternatingSides": "true",
+    "preparesec": 10,
+    "restsec": 30,
+    "Num":8
+  },
+  {
+    "id": "3_10",
+    "exerciseName": "오픈캔자세외전",
+    "type": "회전근개",
+    "supplies": "탄력밴드",
+    "repeatNum": 3,
+    "alternatingSides": "true",
+    "preparesec": 10,
+    "restsec": 30,
+    "Num":24
+  },
+  {
+    "id": "3_11",
+    "exerciseName": "검빼듯대각선리프트",
+    "type": "회전근개",
+    "supplies": "탄력밴드",
+    "repeatNum": 3,
+    "alternatingSides": "true",
+    "preparesec": 10,
+    "restsec": 30,
+    "Num":24
+  }
+]

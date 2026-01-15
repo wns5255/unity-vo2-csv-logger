@@ -1,0 +1,32 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Packages cache (keep manifest/lock, ignore cache)
+# (Unity keeps these under Library usually)
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
