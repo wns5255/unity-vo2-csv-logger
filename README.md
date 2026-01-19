@@ -25,7 +25,7 @@
 - 저장 시 **isoTime/phase/motion_id/subject** 등 분석 친화 컬럼을 함께 기록
 - 종료 시 Unity에서 **Python 예측/보정 스크립트를 자동 실행**하여 결과 CSV를 생성하고 세션 파일명으로 정리
 
-### Key Features (코드 기반)
+### Key Features
 - **HTTP Ingest Server (PC)**: `HttpListener`로 `POST /ingest` 수신
 - **Session CSV Logging**: 사용자/운동 코드 기반 파일명 생성 + 헤더 자동 구성
 - **Phase/Motion Labeling**: `REST/ACTIVE` + 운동 코드(a/b/c/d) + subject 컬럼 기록
