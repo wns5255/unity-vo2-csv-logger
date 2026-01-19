@@ -12,9 +12,8 @@
 <br/>
 
 ## 📸 Project Showcase
-<!-- 실제 스크린샷/데모가 있으면 아래 링크를 교체하세요 -->
-![Demo Preview](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ASSET_1)
-![Demo Preview](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ASSET_2)
+<img width="476" height="265" alt="image (1)" src="https://github.com/user-attachments/assets/713d6b6e-7aa9-4887-b7be-0a66d6194a24" />
+<img width="309" height="270" alt="image" src="https://github.com/user-attachments/assets/02c861a5-43d7-4c15-9139-41fe6394ef4e" />
 
 <br/>
 
